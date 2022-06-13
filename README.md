@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I'm currently studying computer engineering in senior year. 🔭 
-- I'm currently working on Machine Learning and Deep Learning. ⚡
+- I'm a Data Scientist. 🔭
+- I'm currently working on Machine Learning, Deep Learning and Image Processing. ⚡
 - You can ask anything about these topics. karakocmertcan@gmail.com 💬
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/mkqberry)
