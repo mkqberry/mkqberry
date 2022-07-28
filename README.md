@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm a Data Scientist. 🔭
+- I'm Data Scientist at Farplas Automotive Company. 🔭
 - I'm currently working on Machine Learning, Deep Learning and Image Processing. ⚡
 - You can ask anything about these topics. karakocmertcan@gmail.com 💬
 
