@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Data Scientist at Farplas Automotive Company. 🔭
-- I'm currently working on Machine Learning, Deep Learning, Time Series Analysis, MLOps and Image Processing. ⚡
+- I'm currently working on Natural Language Processing, Time Series Analysis, MLOps and Image Processing. ⚡
 - You can ask anything about these topics. karakocmertcan@gmail.com 💬
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/mkqberry)
