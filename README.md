@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Data Scientist at Huawei. 🔭
+- I'm Data Engineer at Huawei. 🔭
 - I'm currently working on Artificial intelligence in manufacturing and logistics systems: algorithms, applications, and use cases. Also Natural Language Processing, Time Series Analysis, MLOps and Image Processing are my working areas too. ⚡
 - You can ask anything about these topics. karakocmertcan@gmail.com 💬
 
