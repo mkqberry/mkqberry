@@ -56,11 +56,11 @@ class MertcanKarakoc:
 
 ## 🚀 Featured Projects
 
-### ⚡ Charon — AI Image Generation Pipeline
+### ⚡ AI Image Generation Pipeline
 > End-to-end diffusion pipeline: ETL Orchestrator → FLUX.1 Generator → CLIP Evaluator → Grafana monitoring  
 > Running on air-gapped Tesla V100S · PostgreSQL-backed metrics · fully offline ML environment
 
-### 🔒 HashWall — Distributed Deduplication Engine
+### 🔒 Distributed Deduplication Engine
 > High-throughput file deduplication system using Redis + PostgreSQL + OBS object storage  
 > Built for large-scale media processing with parallel upload pipelines
 
