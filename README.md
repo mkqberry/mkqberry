@@ -74,8 +74,6 @@ class MertcanKarakoc:
 
 ---
 
----
-
 ## 🔗 Connect
 
 <div align="left">
