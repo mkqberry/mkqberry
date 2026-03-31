@@ -11,7 +11,7 @@ I’m Mertcan Karakoç — a Data Engineer at Huawei, focused on building produc
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/mertcankarakoc/)
+[<img align="left" alt="linkedin" width="24px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.svgrepo.com/show/157006/linkedin.svg)" />](https://www.linkedin.com/in/mertcankarakoc/)
 [<img align="left" alt="kaggle" width="80px" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/mertcankarakoc)
 
 <br/><br/>
